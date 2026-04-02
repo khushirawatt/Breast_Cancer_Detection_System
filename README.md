@@ -69,7 +69,12 @@ python app.py
 **Screenshot**
 (UI screenshot)
 
-<img width="1167" height="531" alt="image" src="https://github.com/user-attachments/assets/acc77827-7683-421f-b4f0-6186dcc6a1b5" />
+<img width="1141" height="592" alt="image" src="https://github.com/user-attachments/assets/aa23bbdc-73be-42c8-b3ab-ade52b4fd53b" />
+<img width="1119" height="578" alt="image" src="https://github.com/user-attachments/assets/289960e7-0fa4-42af-8bb0-1ad0d5280a00" />
+
+<img width="1137" height="544" alt="image" src="https://github.com/user-attachments/assets/cef511c0-cc64-4825-982d-9eb9cfd8959e" />
+
+
 
 **Future Improvements**
 Add deep learning for higher accuracy
